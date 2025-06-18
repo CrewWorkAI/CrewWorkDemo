@@ -1,0 +1,7 @@
+mandelbrot-explorer/
+├── index.html
+├── main.js
+├── shaders/
+│   ├── fragment.glsl
+│   └── vertex.glsl
+└── styles.css
